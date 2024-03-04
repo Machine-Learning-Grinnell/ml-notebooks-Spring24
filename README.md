@@ -4,3 +4,4 @@ This repository hosts notebooks, codes and other machine learning materials pres
 
 ## Contributors
 Trung Le
+Gun Woo Kim
