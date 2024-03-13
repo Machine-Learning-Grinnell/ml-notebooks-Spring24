@@ -23,7 +23,7 @@ git clone https://github.com/your-username/ml-at-grinnell.git
 4. Remember to save your work frequently by clicking on `File` > `Save` or `Ctrl+S`.
 
 ## Contributors
-Trung Le  
+Trung Le
 Gun Woo Kim
 Kory Rosen
 Minh Nguyen
