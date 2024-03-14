@@ -7,7 +7,7 @@ This repository hosts notebooks, codes and other machine learning materials pres
 1. Clone this repo in your terminal: 
 
 ```sh
-git clone https://github.com/your-username/ml-at-grinnell.git
+git clone https://github.com/Machine-Learning-Grinnell/ml-at-grinnell.git
 ```
 
 2. After cloning the repo, you can upload the Jupyter notebook `.ipynb` to Google Colab:
