@@ -1,0 +1,3 @@
+# Assuming you have a dataset with features and target values
+X = np.array([[1, 2], [3, 4], [5, 6], [7, 8]])  # Feature matrix
+y = np.array([[2], [4], [6], [8]])  # Target values
